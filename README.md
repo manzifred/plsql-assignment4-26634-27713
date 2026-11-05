@@ -60,10 +60,8 @@ Run these in SQL*Plus, SQL Developer (as a script, F5) or SQLcl, in a schema wit
 -20010 invalid score · -20011 enrollment not found · -20020–20024 function errors ·
 -20030/-20031 drop errors · -20040 course not found · -20050/-20051 bulk grading ·
 -20060/-20061 bulk enroll · -20070 bad row count · -20099 unexpected error (message includes `SQLERRM`).
-
-## Use of AI
-An AI assistant (Kiro, powered by Claude by Anthropic) was used to help generate and review the schema,
-PL/SQL code, tests and documentation. MANZI Fred and MANZI Michael reviewed, ran and tested everything,
+## partners on the project
+MANZI Fred and MANZI Michael reviewed, ran and tested everything,
 and both members can explain all of the code.
 
 See `docs/IMPLEMENTATION_NOTES.md` for implementation and performance notes.
